@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Research Swarm",
+  "description": "An application where a team of at least 10 specialized AI agents collaborates to conduct in-depth research on a user-provided topic. Users can visualize the entire process, including agent roles, individual findings, and various forms of collaborative meetings and debates.",
+  "requestFramePermissions": []
+}
